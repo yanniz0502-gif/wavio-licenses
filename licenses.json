@@ -1,1 +1,12 @@
-{"licenses":[]}
+
+{
+  "licenses": [
+    {
+      "android_id": "TON_ANDROID_ID",
+      "nom": "Ma tablette",
+      "activation": "2026-03-30",
+      "expiration": "",
+      "actif": true
+    }
+  ]
+}
