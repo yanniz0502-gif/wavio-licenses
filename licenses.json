@@ -1,12 +1,7 @@
-
 {
-  "licenses": [
-    {
-      "android_id": "ef73d40ba7c00d8b",
-      "nom": "tablett anroide",
-      "activation": "2026-03-30",
-      "expiration": "",
-      "actif": true
-    }
+  "keys": [
+    { "key": "WAVIO-ABCD-1234-EFGH", "actif": true, "expiration": "2027-01-01" },
+    { "key": "WAVIO-TEST-0000-FREE", "actif": true, "expiration": "illimite" },
+    { "key": "WAVIO-XXXX-YYYY-ZZZZ", "actif": false, "expiration": "" }
   ]
 }
